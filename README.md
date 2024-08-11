@@ -20,6 +20,8 @@ openweathermap api,
 jotai,
 axios,
 date-fns,
+tailwind-merge,
+clsx
 
 
 # Getting Started
